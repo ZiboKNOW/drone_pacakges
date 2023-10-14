@@ -1,0 +1,7 @@
+int16 drone_id
+sensor_msgs/Image image
+std_msgs/String cam_ori
+std_msgs/Header header
+std_msgs/Float32MultiArray detections
+std_msgs/Float32MultiArray shift_matrix
+std_msgs/Float32MultiArray trans_matrix
